@@ -1,4 +1,7 @@
 .filter{
-    height: 10vh;
     background-color: #0097e6;
+    padding: 15px 10px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
 }
