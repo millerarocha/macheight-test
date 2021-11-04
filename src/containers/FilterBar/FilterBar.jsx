@@ -12,7 +12,7 @@ import { AppContext } from '../../context/AppContext';
 
 const FilterBar = () => {
 
-    const {data,setData} = useContext(AppContext);
+    const {setData} = useContext(AppContext);
     const [filterData,setFilterData] = useState();
     const [value,setValue] = useState();
     const [option,setOption] = useState('Meters');

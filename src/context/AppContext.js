@@ -1,6 +1,4 @@
-import { createContext, useEffect, useState } from "react";
-
-import { request } from "../utils/request";
+import { createContext, useState } from "react";
 
 /**
  * Context
@@ -13,12 +11,6 @@ export const AppContext = createContext();
 
 export function AppProvider({children}){
     const [data,setData] = useState([]);
-
-    useEffect(()=>{
-        request()
-        .then(res=>res.json())
-        .then(data=>setData(data.values))
-    },[]);
 
     const providerValue={
         data,
