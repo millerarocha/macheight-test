@@ -17,3 +17,10 @@
     font-size: 14px;
     color: #718093;
 }
+
+@media (min-width:767px) {
+    .header{
+        justify-content: flex-start;
+        gap: 10px;
+    }
+}

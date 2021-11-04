@@ -12,6 +12,7 @@
 }
 .no-results__img{
     width: 50%;
+    max-width: 200px;
 }
 .no-results__title{
     font-size: 18px;

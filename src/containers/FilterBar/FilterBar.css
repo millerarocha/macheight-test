@@ -5,3 +5,8 @@
     justify-content: flex-start;
     gap: 20px;
 }
+@media (min-width:767px) {
+    .filter{
+        border-radius: 10px;
+    }
+}
