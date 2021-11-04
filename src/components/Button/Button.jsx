@@ -3,11 +3,15 @@ import React from 'react';
 import './Button.css';
 
 const Button = ({
-    text='Search...'
+    text='Search...',
+    onClick
 }) => {
     return (
         <>
-            <button className="btn">
+            <button 
+                className="btn"
+                onClick={onClick}
+            >
                 {text}
             </button>
         </>
