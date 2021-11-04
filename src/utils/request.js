@@ -1,0 +1,1 @@
+export const request = ()=>fetch('https://mach-eight.uc.r.appspot.com/');
