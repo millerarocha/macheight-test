@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/macheight-test/static/css/main.4edccae8.chunk.css",
+    "main.js": "/macheight-test/static/js/main.b758e1c5.chunk.js",
+    "main.js.map": "/macheight-test/static/js/main.b758e1c5.chunk.js.map",
+    "runtime-main.js": "/macheight-test/static/js/runtime-main.abbcda74.js",
+    "runtime-main.js.map": "/macheight-test/static/js/runtime-main.abbcda74.js.map",
+    "static/js/2.14842221.chunk.js": "/macheight-test/static/js/2.14842221.chunk.js",
+    "static/js/2.14842221.chunk.js.map": "/macheight-test/static/js/2.14842221.chunk.js.map",
+    "index.html": "/macheight-test/index.html",
+    "static/css/main.4edccae8.chunk.css.map": "/macheight-test/static/css/main.4edccae8.chunk.css.map",
+    "static/js/2.14842221.chunk.js.LICENSE.txt": "/macheight-test/static/js/2.14842221.chunk.js.LICENSE.txt",
+    "static/media/illustration-empty.6ed5b35a.svg": "/macheight-test/static/media/illustration-empty.6ed5b35a.svg",
+    "static/media/nba-logo.6a9f0a8c.png": "/macheight-test/static/media/nba-logo.6a9f0a8c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abbcda74.js",
+    "static/js/2.14842221.chunk.js",
+    "static/css/main.4edccae8.chunk.css",
+    "static/js/main.b758e1c5.chunk.js"
+  ]
+}
